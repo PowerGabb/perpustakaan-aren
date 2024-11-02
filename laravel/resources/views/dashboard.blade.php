@@ -2,7 +2,7 @@
 @section('title', 'Dashboard')
 @section('content')
     <div class="mb-3">
-        <H1>Selamat Datang Di Dashboard, <span class="text-primary">{{ Auth::user()->name }}</span></H1>
+        <H1>Selamat Datang Di Dashboardan, <span class="text-primary">{{ Auth::user()->name }}</span></H1>
 
 
     </div>
